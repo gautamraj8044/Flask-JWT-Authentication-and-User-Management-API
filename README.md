@@ -1,4 +1,3 @@
-Here’s a more polished version of the instructions for setting up and running the Flask-JWT Authentication and User Management API:
 
 ---
 
